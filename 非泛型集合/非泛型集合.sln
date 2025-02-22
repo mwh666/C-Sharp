@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayList 传统集合", "非泛型集合\arrayList 传统集合.csproj", "{88A0C7F2-DF3C-4A3B-868C-E7DB68DD643E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrayList 宠物店的狗", "宠物店的狗\arrayList 宠物店的狗.csproj", "{5D3D00B5-3FD8-4B27-8048-EBFB8F1C7101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable 键值对集合", "Hashtable 键值对集合\Hashtable 键值对集合.csproj", "{91148F7F-D729-40CC-8CD4-A3C9C6B347C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable 图书管理", "Hashtable 图书管理\Hashtable 图书管理.csproj", "{4F9FD427-6A3B-4DE4-A6E7-BD5BFD90B582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88A0C7F2-DF3C-4A3B-868C-E7DB68DD643E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A0C7F2-DF3C-4A3B-868C-E7DB68DD643E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A0C7F2-DF3C-4A3B-868C-E7DB68DD643E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A0C7F2-DF3C-4A3B-868C-E7DB68DD643E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3D00B5-3FD8-4B27-8048-EBFB8F1C7101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3D00B5-3FD8-4B27-8048-EBFB8F1C7101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3D00B5-3FD8-4B27-8048-EBFB8F1C7101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3D00B5-3FD8-4B27-8048-EBFB8F1C7101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91148F7F-D729-40CC-8CD4-A3C9C6B347C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91148F7F-D729-40CC-8CD4-A3C9C6B347C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91148F7F-D729-40CC-8CD4-A3C9C6B347C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91148F7F-D729-40CC-8CD4-A3C9C6B347C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9FD427-6A3B-4DE4-A6E7-BD5BFD90B582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9FD427-6A3B-4DE4-A6E7-BD5BFD90B582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9FD427-6A3B-4DE4-A6E7-BD5BFD90B582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9FD427-6A3B-4DE4-A6E7-BD5BFD90B582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E60CF606-057A-421D-AE42-ECABB1BDDEAE}
+	EndGlobalSection
+EndGlobal
